@@ -1,7 +1,6 @@
 ---
 title: "About me"
 permalink: /about/
-layout: page
 author_profile: false
 ---
 
