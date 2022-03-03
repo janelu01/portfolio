@@ -75,6 +75,8 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/janelu1/"
+  atom_feed:
+    hide: true
 
 defaults:
   # _posts
@@ -102,6 +104,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-  
-atom_feed:
-hide: true
