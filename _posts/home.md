@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## Overview of Professional Work
+
 <p align="left">
   <img width="460" height="400" src="https://janeluwrites.files.wordpress.com/2021/06/sheinnovates-1024x1024-1.jpg?w=1024">
 </p>
