@@ -1,6 +1,6 @@
 ---
 title: "Home"
-permalink: baseurl
+permalink: /
 layout: page
 author_profile: true
 ---
