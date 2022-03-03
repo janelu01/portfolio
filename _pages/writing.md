@@ -10,7 +10,7 @@ author_profile: true
 * [How to Trade In Your Car: A Guide](https://getjerry.com/car-insurance/how-to-trade-in-a-car)
 
 # Ontario Digital Service
-## Blog Post and Technical Writing</p>
+## Blog Post and Technical Writing
 * [Save the Data: International Open Data Day](https://medium.com/ontariodigital/save-the-data-international-open-data-day-9150c19da489)
 * [File Types on the Ontario Data Catalogue](https://data.ontario.ca/about#training-materials)
 
