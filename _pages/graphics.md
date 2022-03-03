@@ -1,5 +1,5 @@
 ---
-title: "Graphic Design Collection"
 permalink: /graphics/
+title: "Graphic Design Collection"
 author_profile: true
 ---
