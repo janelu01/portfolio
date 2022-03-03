@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -60,9 +60,7 @@ plugins:
 author:
   name   : "Jane Lu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am excited about technology and using it to improve public services.
-  > I have a keen interest in the conversation around privacy and ethics as the world continues to build new digital products. I have extensive experience with user-centered design, communications, research, writing, and content creation.
-  > Graduated with an Honours Bachelor of Arts, English RMPC with specialization in Digital Media Studies, from the University of Waterloo in 2021."
+  bio    : "I have extensive experience with user-centered design, communications, research, writing, and content creation."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -96,18 +94,18 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
