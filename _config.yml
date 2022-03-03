@@ -61,6 +61,7 @@ author:
   name   : "Jane Lu"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I am excited about technology and using it to improve public services."
+  - "Graduated with an Honours Bachelor of Arts, English RMPC with specialization in Digital Media Studies, from the University of Waterloo in 2021."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
