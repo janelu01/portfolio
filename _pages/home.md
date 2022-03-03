@@ -1,6 +1,6 @@
 ---
 title: "Home"
-permalink: /
+permalink: /home/
 author_profile: true
 ---
 ## Overview of Professional Work
