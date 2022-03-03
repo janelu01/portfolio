@@ -3,32 +3,32 @@ permalink: /writing/
 title: "Writing"
 author_profile: true
 ---
-# Jerry 
-## Content Writing and Editing
+## Jerry 
+### Content Writing and Editing
 * [3 Important Things To Know When Shopping for Electric Cars](https://getjerry.com/insights/3-important-things-to-know-when-shopping-electric-cars)
 * [What is an Odometer Disclosure Statement?](https://getjerry.com/car-insurance/odometer-disclosure-statement)
 * [How to Trade In Your Car: A Guide](https://getjerry.com/car-insurance/how-to-trade-in-a-car)
 
-# Ontario Digital Service
-## Blog Post and Technical Writing
+## Ontario Digital Service
+### Blog Post and Technical Writing
 * [Save the Data: International Open Data Day](https://medium.com/ontariodigital/save-the-data-international-open-data-day-9150c19da489)
 * [File Types on the Ontario Data Catalogue](https://data.ontario.ca/about#training-materials)
 
-# SAP
-## Content Writing for Digitalist Magazine (now SAP Insights)
+## SAP
+### Content Writing for Digitalist Magazine (now SAP Insights)
 * [Wade Davis: Creating Equal Opportunities In The Workplace](https://www.digitalistmag.com/future-of-work/2018/06/19/wade-davis-creating-equal-opportunities-in-workplace-06147922/)
 * [Katty Kay: Closing The Confidence Gap](https://www.digitalistmag.com/future-of-work/2018/06/05/katty-kay-closing-confidence-gap-06147920/)
 * [Sarah Jessica Parker: How To Start A Business](https://www.digitalistmag.com/future-of-work/2018/05/22/sarah-jessica-parker-how-to-start-business-06060038/)
 
-# Other Writing Samples
-## Technical Writing
+## Other Writing Samples
+### Technical Writing
 
 I have created one-pagers and contributor guides for RBC and the Ontario Digital Service.
 
 * [Paint Tool Sai Sample](https://janeluwrites.files.wordpress.com/2021/06/f81fec_d596f1871ce142fabd401aef8b8cbb7a.pdf)
 * [Process Flow Sample](https://janeluwrites.files.wordpress.com/2021/06/process-flow-for-creatr-2.png)
 
-## Academic Writing
+### Academic Writing
 Essays and News Media Writing Samples
 
 * [With Warm Regards and Open Ears](https://janeluwrites.files.wordpress.com/2021/06/with-warm-regards-and-open-ears-jane-resume.pdf)
