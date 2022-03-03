@@ -4,8 +4,8 @@ permalink: /
 author_profile: true
 ---
 ## Overview of Professional Work
-<p align="center">
-  <img width="460" height="300" src="https://janeluwrites.files.wordpress.com/2021/06/sheinnovates-1024x1024-1.jpg?w=1024">
+<p align="left">
+  <img width="460" height="400" src="https://janeluwrites.files.wordpress.com/2021/06/sheinnovates-1024x1024-1.jpg?w=1024">
 </p>
 
 ### Published Media
@@ -13,21 +13,21 @@ author_profile: true
 * Medium blogpost for Ontario Digital Service (ODS): [Save the Data: International Open Data Day](https://medium.com/ontariodigital/save-the-data-international-open-data-day-9150c19da489)
 * Insights content writer and editor for [Jerry](https://getjerry.com/advice/author/jane-lu2)
 
-<p align="center">
+<p align="left">
   <img width="460" height="300" src="https://janeluwrites.files.wordpress.com/2021/06/pens-unsplash.jpg?w=1024">
 </p>
 
 ### Technical Writing
 I worked on a plain language description of file types so that data on the [Ontario Open Data Catalogue](https://data.ontario.ca/en/about#training-materials) are more accessible to the public. I have also written internal guide documents for catalogue contributors and one-pagers describing Windows 10 features.
 
-<p align="center">
+<p align="left">
   <img width="460" height="300" src="https://janeluwrites.files.wordpress.com/2021/06/ux-indonesia-w00fke6e8ze-unsplash.jpg?w=1024">
 </p>
 
 ### User Research
 I have created user testing scripts and conducted dozens of user interviews to inform evidence-based changes to the [Ontario Data Catalogue](https://data.ontario.ca/en/about#training-materials). This includes changes to the homepage and licence presentation.
 
-<p align="center">
+<p align="left">
   <img width="460" height="300" src="https://janeluwrites.files.wordpress.com/2021/06/ods.jpg?w=800">
 </p>
 
