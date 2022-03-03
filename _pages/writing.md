@@ -1,6 +1,6 @@
 ---
-title: "Writing"
 permalink: /writing/
+title: "Writing"
 author_profile: true
 ---
 # Jerry 
