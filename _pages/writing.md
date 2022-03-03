@@ -1,6 +1,6 @@
 ---
 permalink: /writing/
-title: "Writing"
+title: "Writing Samples"
 author_profile: true
 ---
 ## Jerry 
