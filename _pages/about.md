@@ -3,7 +3,7 @@ permalink: /about/
 title: "About me"
 author_profile: False
 ---
-<img src="bio-photo2.jpg"
+<img src="/assets/images/bio-photo2.jpg"
      alt="Picture of Jane"
      style="float: left; margin-right: 10px;" />
      
