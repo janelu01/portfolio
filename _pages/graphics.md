@@ -11,9 +11,6 @@ gallery:
   - url: /assets/images/meeting-graphics-5.png
     image_path: /assets/images/meeting-graphics-5.png
     alt: "Graphic of two stick people high-fiving"
-  - url: /assets/images/banner-5.png
-    image_path: /assets/images/banner-5.png
-    alt: "Close up of Microsoft laptop keyboards"
   - url: /assets/images/b16.png
     image_path: /assets/images/b16.png
     alt: "Text reads RBC Windows 10 Upgrade and it's here"
@@ -72,9 +69,16 @@ gallery2:
   - url: /assets/images/banner2.png
     image_path: /assets/images/banner2.png
     alt: "Close up of Microsoft laptop keyboard"
+gallery3:
   - url: /assets/images/banner-4.png
     image_path: /assets/images/banner-4.png
     alt: "Close up of Windows keyboard"
+gallery4:
+  - url: /assets/images/banner-5.png
+    image_path: /assets/images/banner-5.png
+    alt: "Close up of Microsoft laptop keyboards"
 ---
-{% include gallery id="gallery" layout="half" %}
+{% include gallery id="gallery" %}
 {% include gallery id="gallery2" class="full" %}
+{% include gallery id="gallery3" class="full" %}
+{% include gallery id="gallery4" class="full" %}
