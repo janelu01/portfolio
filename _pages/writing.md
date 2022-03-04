@@ -2,6 +2,9 @@
 permalink: /writing/
 title: "Writing Samples"
 author_profile: true
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "book"
 ---
 ## Jerry 
 ### Content Writing and Editing
