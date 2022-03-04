@@ -1,6 +1,5 @@
 ---
 permalink: /about/
-layout: splash
 title: "About me"
 
 feature_row:
