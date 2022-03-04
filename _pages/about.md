@@ -3,7 +3,7 @@ permalink: /about/
 title: "About me"
 author_profile: false
 ---
-<img align="left" width="300" height="310" src="/assets/images/bio-photo2.jpg">
+<img align="left" width="200" height="210" src="/portfolio/assets/images/bio-photo2.jpg">
      
 I am excited about technology and using it to improve public services. I have a keen interest in the conversation around privacy and ethics as the world continues to build new digital products. I have extensive experience with user-centered design, communications, research, writing, and content creation.
 
