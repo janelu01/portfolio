@@ -31,7 +31,7 @@ I have created one-pagers and contributor guides for RBC and the Ontario Digital
 * [Paint Tool Sai Sample](https://janeluwrites.files.wordpress.com/2021/06/f81fec_d596f1871ce142fabd401aef8b8cbb7a.pdf)
 * [Process Flow Sample](https://janeluwrites.files.wordpress.com/2021/06/process-flow-for-creatr-2.png)
 
-### Academic Writing
+**Academic Writing**
 Essays and News Media Writing Samples
 
 * [With Warm Regards and Open Ears](https://janeluwrites.files.wordpress.com/2021/06/with-warm-regards-and-open-ears-jane-resume.pdf)
