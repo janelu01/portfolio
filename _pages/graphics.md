@@ -5,9 +5,9 @@ author_profile: true
 
 gallery:
   - url: /assets/images/1.png
-    image_path: /assets/images/1.png
+    image_path: https://janelu.itch.io/when-we-fall
     alt: "Black and white image of three icons"
-    title: "From [Twine Game](https://janelu.itch.io/when-we-fall)"
+    title: "From Twine Game"
   - url: /assets/images/meeting-graphics-5.png
     image_path: /assets/images/meeting-graphics-5.png
     alt: "Graphic of two stick people high-fiving"
@@ -74,6 +74,5 @@ gallery:
   - url: /assets/images/ods.jpg
     image_path: /assets/images/ods.jpg
     alt: "Digital drawing of Data Chapter team members at the Ontario Digital Service"
-<!---gallery2:--->
 ---
 {% include gallery id="gallery" %}
