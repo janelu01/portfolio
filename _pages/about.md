@@ -4,7 +4,7 @@ title: "About me"
 author_profile: False
 ---
 <p align="left">
-  <img width="460" height="300" src="/assets/images/bio-photo2.jpg">
+  <img width="300" height="310" src="/assets/images/bio-photo2.jpg">
 </p>
      
 I am excited about technology and using it to improve public services. I have a keen interest in the conversation around privacy and ethics as the world continues to build new digital products. I have extensive experience with user-centered design, communications, research, writing, and content creation.
