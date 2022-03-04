@@ -3,7 +3,7 @@ permalink: /about/
 title: "About me"
 author_profile: False
 ---
-<p align="left">
+<p align="center">
   <img width="300" height="310" src="/assets/images/bio-photo2.jpg">
 </p>
      
