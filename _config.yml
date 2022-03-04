@@ -92,6 +92,9 @@ defaults:
     values:
       layout: single
       author_profile: false
+      
+atom_feed:
+  hide: true
 
 category_archive:
   type: liquid
