@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Research and policy analyst with extensive experience in user-centered design, communications, research, writing, and content creation.
 github_username: janelu01
 minimal_mistakes_skin: dark
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
