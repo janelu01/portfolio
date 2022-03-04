@@ -1,7 +1,10 @@
 ---
 permalink: /about/
 title: "About me"
-author_profile: True
+author_profile: False
+toc: true
+toc_label: "Check out some of my work"
+toc_icon: "book"
 ---
 
 I am excited about technology and using it to improve public services. I have a keen interest in the conversation around privacy and ethics as the world continues to build new digital products. I have extensive experience with user-centered design, communications, research, writing, and content creation.
