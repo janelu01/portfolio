@@ -4,8 +4,8 @@ title: "Graphic Design Collection"
 author_profile: true
 
 gallery:
-  - url: /assets/images/1.png
-    image_path: https://janelu.itch.io/when-we-fall
+  - url: https://janelu.itch.io/when-we-fall
+    image_path: /assets/images/1.png
     alt: "Black and white image of three icons"
     title: "From Twine Game"
   - url: /assets/images/meeting-graphics-5.png
@@ -14,15 +14,15 @@ gallery:
   - url: /assets/images/b16.png
     image_path: /assets/images/b16.png
     alt: "Text reads RBC Windows 10 Upgrade and it's here"
-  - url: /assets/images/bilingual-buttons.jpg
-    image_path: /assets/images/bilingual-buttons.jpg
-    alt: "Yellow, pink, and blue website navigation buttons"
   - url: /assets/images/banner-1.png
     image_path: /assets/images/banner-1.png
     alt: "Close up of Microsoft laptop keyboard"
   - url: /assets/images/banner2.png
     image_path: /assets/images/banner2.png
     alt: "Close up of Microsoft laptop keyboard"
+  - url: /assets/images/bilingual-buttons.jpg
+    image_path: /assets/images/bilingual-buttons.jpg
+    alt: "Yellow, pink, and blue website navigation buttons"
   - url: /assets/images/banner-3.png
     image_path: /assets/images/banner-3.png
     alt: "Blue gradiant website overlay with text that reads Windows 10"
