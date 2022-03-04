@@ -47,8 +47,8 @@ gallery:
   - url: /assets/images/7.png
     image_path: /assets/images/7.png
     alt: "View of scarf and hot chocolate on top of a wooden surface"
-  - url: /assets/images/archives.png
-    image_path: /assets/images/archives.png
+  - url: /assets/images/archives.jpg
+    image_path: /assets/images/archives.jpg
     alt: "Navigation buttons for the archives of a website"
   - url: /assets/images/8.png
     image_path: /assets/images/8.png
@@ -62,9 +62,6 @@ gallery:
   - url: /assets/images/6.png
     image_path: /assets/images/6.png
     alt: "Alice in Wonderland themed graphics"
-  - url: /assets/images/bilingual-buttons.png
-    image_path: /assets/images/bilingual-buttons.png
-    alt: "placeholder image 4"
   - url: /assets/images/b8.png
     image_path: /assets/images/b8.png
     alt: "Closeup of Microsoft laptop screen"
