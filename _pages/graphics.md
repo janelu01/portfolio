@@ -11,17 +11,14 @@ gallery:
   - url: /assets/images/meeting-graphics-5.png
     image_path: /assets/images/meeting-graphics-5.png
     alt: "Graphic of two stick people high-fiving"
-  - url: /assets/images/banner2.png
-    image_path: /assets/images/banner2.png
-    alt: "Close up of Microsoft laptop keyboard"
   - url: /assets/images/banner-5.png
     image_path: /assets/images/banner-5.png
     alt: "Close up of Microsoft laptop keyboards"
   - url: /assets/images/b16.png
     image_path: /assets/images/b16.png
     alt: "Text reads RBC Windows 10 Upgrade and it's here"
-  - url: /assets/images/bilingual-buttons.png
-    image_path: /assets/images/bilingual-buttons.png
+  - url: /assets/images/bilingual-buttons.jpg
+    image_path: /assets/images/bilingual-buttons.jpg
     alt: "Yellow, pink, and blue website navigation buttons"
   - url: /assets/images/banner-1.png
     image_path: /assets/images/banner-1.png
@@ -75,6 +72,9 @@ gallery:
     image_path: /assets/images/ods.jpg
     alt: "Digital drawing of Data Chapter team members at the Ontario Digital Service"
 gallery2:
+  - url: /assets/images/banner2.png
+    image_path: /assets/images/banner2.png
+    alt: "Close up of Microsoft laptop keyboard"
   - url: /assets/images/banner-4.png
     image_path: /assets/images/banner-4.png
     alt: "Close up of Windows keyboard"
