@@ -7,7 +7,7 @@ gallery:
   - url: /assets/images/1.png
     image_path: /assets/images/1.png
     alt: "Black and white image of three icons"
-    title: "From Twine Game"
+    title: "From [Twine Game](https://janelu.itch.io/when-we-fall)"
   - url: /assets/images/meeting-graphics-5.png
     image_path: /assets/images/meeting-graphics-5.png
     alt: "Graphic of two stick people high-fiving"
@@ -19,6 +19,9 @@ gallery:
     alt: "Yellow, pink, and blue website navigation buttons"
   - url: /assets/images/banner-1.png
     image_path: /assets/images/banner-1.png
+    alt: "Close up of Microsoft laptop keyboard"
+  - url: /assets/images/banner2.png
+    image_path: /assets/images/banner2.png
     alt: "Close up of Microsoft laptop keyboard"
   - url: /assets/images/banner-3.png
     image_path: /assets/images/banner-3.png
@@ -53,6 +56,9 @@ gallery:
   - url: /assets/images/b6.png
     image_path: /assets/images/b6.png
     alt: "Grahpic with close up of Microsoft laptop keyboards"
+  - url: /assets/images/banner-4.png
+    image_path: /assets/images/banner-4.png
+    alt: "Close up of Windows keyboard"
   - url: /assets/images/b7.png
     image_path: /assets/images/b7.png
     alt: "Graphic of a man climbing a ladder"
@@ -62,23 +68,12 @@ gallery:
   - url: /assets/images/b8.png
     image_path: /assets/images/b8.png
     alt: "Closeup of Microsoft laptop screen"
-  - url: /assets/images/ods.jpg
-    image_path: /assets/images/ods.jpg
-    alt: "Digital drawing of Data Chapter team members at the Ontario Digital Service"
-gallery2:
-  - url: /assets/images/banner2.png
-    image_path: /assets/images/banner2.png
-    alt: "Close up of Microsoft laptop keyboard"
-gallery3:
-  - url: /assets/images/banner-4.png
-    image_path: /assets/images/banner-4.png
-    alt: "Close up of Windows keyboard"
-gallery4:
   - url: /assets/images/banner-5.png
     image_path: /assets/images/banner-5.png
     alt: "Close up of Microsoft laptop keyboards"
+  - url: /assets/images/ods.jpg
+    image_path: /assets/images/ods.jpg
+    alt: "Digital drawing of Data Chapter team members at the Ontario Digital Service"
+<!---gallery2:--->
 ---
 {% include gallery id="gallery" %}
-{% include gallery id="gallery2" class="full" %}
-{% include gallery id="gallery3" class="full" %}
-{% include gallery id="gallery4" class="full" %}
