@@ -39,9 +39,9 @@ Essays and News Media Writing Samples
 * [Press Release Sample](https://janeluwrites.files.wordpress.com/2021/06/pr-assignment-jane-resume.pdf) 
 * [Feature Story Sample](https://janeluwrites.files.wordpress.com/2021/06/feature_assignment-resume.pdf) 
 * [Song Review Sample](https://janeluwrites.files.wordpress.com/2021/06/review-jane.pdf)
-* [Twine Game, coded with HTML, CSS, Harlowe](https://janelu.itch.io/when-we-fall)
+* [Twine Game](https://janelu.itch.io/when-we-fall), coded with HTML, CSS, Harlowe
 
-With Warm Regards and Open Ears is a blended, personal essay that was awarded the Diaspora and Transnational Studies Prize.
+_With Warm Regards and Open Ears_ is a blended, personal essay that was awarded the Diaspora and Transnational Studies Prize.
 
 **Adjudicators' comments:**
 
