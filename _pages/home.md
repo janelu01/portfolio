@@ -43,6 +43,7 @@ Other Samples:
 ## Work History
 **RESEARCH AND POLICY ANALYST, ESDC | Present**
 
+* Implementing the agile governance pilot to empower product teams and ensure services meet the GC digital standards 
 * Building and providing guidance to product teams on data patterns (reusable components and templates for key interactions like agreeing to terms and conditions, authentication, etc.)
 * Researching and implementing best practices for obtaining consent for disclosure, collection, and use of information within services
 
