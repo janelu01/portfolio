@@ -6,6 +6,11 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "book"
 ---
+## Employment and Social Development Canada
+**Blog Posts**
+* [Delivering at the Speed of Trust: Reflections](https://medium.com/good-trouble/delivering-at-the-speed-of-trust-reflections-19eedf83fdc0)
+* [Shifting from compliance to creativity](https://medium.com/good-trouble/shifting-from-compliance-to-creativity-9ab7187f13e)
+
 ## Jerry 
 **Content Writing and Editing**
 * [3 Important Things To Know When Shopping for Electric Cars](https://getjerry.com/insights/3-important-things-to-know-when-shopping-electric-cars)
@@ -16,12 +21,6 @@ toc_icon: "book"
 **Blog Post and Technical Writing**
 * [Save the Data: International Open Data Day](https://medium.com/ontariodigital/save-the-data-international-open-data-day-9150c19da489)
 * [File Types on the Ontario Data Catalogue](https://data.ontario.ca/about#training-materials)
-
-## SAP
-**Content Writing for Digitalist Magazine (now SAP Insights)**
-* [Wade Davis: Creating Equal Opportunities In The Workplace](https://www.digitalistmag.com/future-of-work/2018/06/19/wade-davis-creating-equal-opportunities-in-workplace-06147922/)
-* [Katty Kay: Closing The Confidence Gap](https://www.digitalistmag.com/future-of-work/2018/06/05/katty-kay-closing-confidence-gap-06147920/)
-* [Sarah Jessica Parker: How To Start A Business](https://www.digitalistmag.com/future-of-work/2018/05/22/sarah-jessica-parker-how-to-start-business-06060038/)
 
 ## Other Writing Samples
 **Technical Writing**
