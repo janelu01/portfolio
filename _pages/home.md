@@ -45,8 +45,8 @@ Other Samples:
 **RESEARCH AND POLICY ANALYST, ESDC | Present**
 
 * Implementing the agile governance pilot to empower product teams and ensure services meet the GC digital standards 
-* Building and providing guidance to product teams on data patterns (reusable components and templates for key interactions like agreeing to terms and conditions, authentication, etc.)
-* Researching and implementing best practices for obtaining consent for disclosure, collection, and use of information within services
+* Developed criteria for evaluating whether a service meets the Digital Standards in each service design phase 
+* Developed materials for and facilitated a workshop at FWD50 to demonstrate the need for simplified governance
 
 **CONTENT WRITER, JERRY**
 
