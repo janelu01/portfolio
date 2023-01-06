@@ -8,9 +8,10 @@ author_profile: true
 </p>
 
 ### Published Media
-* Writer for [Digitalist Magazine](http://digitalistmag.com/author/janelu/)
-* Medium blogpost for Ontario Digital Service (ODS): [Save the Data: International Open Data Day](https://medium.com/ontariodigital/save-the-data-international-open-data-day-9150c19da489)
+* Employment and Social Development Canada (ESDC): [Delivering at the Speed of Trust: Reflections](https://medium.com/good-trouble/delivering-at-the-speed-of-trust-reflections-19eedf83fdc0)
+* Ontario Digital Service (ODS): [Save the Data: International Open Data Day](https://medium.com/ontariodigital/save-the-data-international-open-data-day-9150c19da489)
 * Insights content writer and editor for [Jerry](https://getjerry.com/advice/author/jane-lu2)
+* Writer for [Digitalist Magazine](http://digitalistmag.com/author/janelu/)
 
 <p align="left">
   <img width="460" height="300" src="https://janeluwrites.files.wordpress.com/2021/06/pens-unsplash.jpg?w=1024">
