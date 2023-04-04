@@ -4,14 +4,15 @@ author_profile: true
 ---
 ## Overview of Professional Work
 <p align="left">
-  <img width="460" height="400" src="https://janeluwrites.files.wordpress.com/2021/06/sheinnovates-1024x1024-1.jpg?w=1024">
+  <img width="460" height="300" src="https://github.com/janelu01/portfolio/blob/master/assets/images/fwd50.jpg">
 </p>
 
-### Published Media
+### Content Writing & Design
+* Designed an in-person workshop for [FWD50](https://next.fwd50.com/session/69/delivering-at-the-speed-of-trust)
 * Employment and Social Development Canada (ESDC): [Delivering at the Speed of Trust: Reflections](https://medium.com/good-trouble/delivering-at-the-speed-of-trust-reflections-19eedf83fdc0)
+* Writer for [Digitalist Magazine](http://digitalistmag.com/author/janelu/)
 * Ontario Digital Service (ODS): [Save the Data: International Open Data Day](https://medium.com/ontariodigital/save-the-data-international-open-data-day-9150c19da489)
 * Insights content writer and editor for [Jerry](https://getjerry.com/advice/author/jane-lu2)
-* Writer for [Digitalist Magazine](http://digitalistmag.com/author/janelu/)
 
 <p align="left">
   <img width="460" height="300" src="https://janeluwrites.files.wordpress.com/2021/06/pens-unsplash.jpg?w=1024">
@@ -47,6 +48,7 @@ Other Samples:
 * Implementing the agile governance pilot to empower product teams and ensure services meet the GC digital standards 
 * Developed criteria for evaluating whether a service meets the Digital Standards in each service design phase 
 * Developed materials for and facilitated a workshop at FWD50 to demonstrate the need for simplified governance
+* Engaging stakeholders to develop a performance measurement framework to help product teams develop success metrics
 
 **CONTENT WRITER, JERRY**
 
