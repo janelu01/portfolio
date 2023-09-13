@@ -5,7 +5,7 @@ title: "About me"
 feature_row:
   - image_path: /assets/images/bio-photo2.jpg
     alt: "Picture of Jane"
-    excerpt: 'I am passionate about content design and using plain language to make information accessible and easy to understand. I'm always looking to learn more about how to write clear documentation and guidance.
+    excerpt: 'I am passionate about content design and using plain language to make information accessible and easy to understand. I'm always looking to learn more about how to write clear documentation and guidance.'
 
 
 **My toolkit**: Contentful, Photoshop, Procreate, Canva, SharePoint, Figma, Jira, ADO, Git, Asana, Semrush, Miro, Medium, Adobe Analytics
