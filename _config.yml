@@ -16,7 +16,7 @@
 title: Portfolio
 email: janelu098@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Research and policy analyst with extensive experience in UX, communications, research, writing, and content design.
+  Research and policy analyst with extensive experience in writing, content design, UX, and research.
 github_username: janelu01
 minimal_mistakes_skin: dark
 search: false
@@ -54,7 +54,7 @@ plugins:
 author:
   name   : "Jane Lu"
   avatar : "/assets/images/bio-photo2.jpg"
-  bio    : "Research and policy analyst with extensive experience in UX, communications, research, writing, and content design."
+  bio    : "Research and policy analyst with extensive experience in writing, content design, UX, and research."
   location: "Ontario, Canada"
   links:
     - label: "GitHub"
