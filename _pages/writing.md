@@ -9,7 +9,6 @@ toc_icon: "book"
 ## Technical writing
 * [File Types on the Ontario Data Catalogue](https://data.ontario.ca/about#training-materials)
 * [Paint Tool Sai Sample](https://janeluwrites.files.wordpress.com/2021/06/f81fec_d596f1871ce142fabd401aef8b8cbb7a.pdf)
-* [How to Trade In Your Car: A Guide](https://getjerry.com/car-insurance/how-to-trade-in-a-car)
 * [Sample from Writer's Playbook for Jerry](https://drive.google.com/file/d/1AXB5i9ev13MaogTONPgO7yNGR4_8_Df4/view?usp=sharing)
 * [Materials for FWD50 workshop activity](https://github.com/DTS-STN/digital-service-reviews/tree/main/assets/capture-the-approval)
 
