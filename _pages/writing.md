@@ -8,17 +8,17 @@ toc_icon: "book"
 ---
 ## Technical writing
 * [File Types on the Ontario Data Catalogue](https://data.ontario.ca/about#training-materials)
+* [Paint Tool Sai Sample](https://janeluwrites.files.wordpress.com/2021/06/f81fec_d596f1871ce142fabd401aef8b8cbb7a.pdf)
+* [How to Trade In Your Car: A Guide](https://getjerry.com/car-insurance/how-to-trade-in-a-car)
 * [Sample from Writer's Playbook for Jerry](https://drive.google.com/file/d/1AXB5i9ev13MaogTONPgO7yNGR4_8_Df4/view?usp=sharing)
 * [Materials for FWD50 workshop activity](https://github.com/DTS-STN/digital-service-reviews/tree/main/assets/capture-the-approval)
-* [Paint Tool Sai Sample](https://janeluwrites.files.wordpress.com/2021/06/f81fec_d596f1871ce142fabd401aef8b8cbb7a.pdf)
-* [Process Flow Sample](https://janeluwrites.files.wordpress.com/2021/06/process-flow-for-creatr-2.png)
 
 ## Content writing
+* [What we learned about awareness, use and gaps of the digital standards playbook](https://alpha.service.canada.ca/en/projects/digital-standards-playbook/awareness-use-gaps)
 * [Delivering at the Speed of Trust: Reflections](https://medium.com/good-trouble/delivering-at-the-speed-of-trust-reflections-19eedf83fdc0)
 * [Shifting from compliance to creativity](https://medium.com/good-trouble/shifting-from-compliance-to-creativity-9ab7187f13e)
 * [3 Important Things To Know When Shopping for Electric Cars](https://getjerry.com/insights/3-important-things-to-know-when-shopping-electric-cars)
-* [What is an Odometer Disclosure Statement?](https://getjerry.com/car-insurance/odometer-disclosure-statement)
-* [How to Trade In Your Car: A Guide](https://getjerry.com/car-insurance/how-to-trade-in-a-car)
+* [How do car insurance deductibles work?](https://drive.google.com/file/d/1hZvh800X8aXLdhHK88IOfjvqDCQtYqIA/view?usp=drive_link)
 * [Save the Data: International Open Data Day](https://medium.com/ontariodigital/save-the-data-international-open-data-day-9150c19da489)
 
 ## Academic Writing
