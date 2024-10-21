@@ -10,7 +10,7 @@ author_profile: true
 ### Content Writing & Design
 * Designed an in-person workshop for [FWD50](https://next.fwd50.com/session/69/delivering-at-the-speed-of-trust)
 * Employment and Social Development Canada (ESDC): [Delivering at the Speed of Trust: Reflections](https://medium.com/good-trouble/delivering-at-the-speed-of-trust-reflections-19eedf83fdc0)
-* Writer for [Digitalist Magazine](http://digitalistmag.com/author/janelu/)
+* Beetlejuice Service Design Case Study for [Values and Ethics Symposium](https://drive.google.com/file/d/14evlp8aFsLpK3Xx-3QzMtD-B0c3AcSO5/view?usp=sharing)
 * Ontario Digital Service (ODS): [Save the Data: International Open Data Day](https://medium.com/ontariodigital/save-the-data-international-open-data-day-9150c19da489)
 * Insights content writer and editor for [Jerry](https://getjerry.com/advice/author/jane-lu2)
 
